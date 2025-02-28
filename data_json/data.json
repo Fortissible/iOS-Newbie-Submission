@@ -6,7 +6,8 @@
         "discounted_price": 3250000,
         "sold": 4,
         "discount": true,
-        "image": "miku-1"
+        "image": "miku-1",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: Pre-Order Anime Figure\nItem ini merupakan item Pre-Order, bukan Ready Stock.\nMohon baca sampai akhir sebelum membuat order ya!\n\nPVC Figure 1/7 Hatsune Miku with SOLWA\nHarga Total IDR 2.620.000\n\nRelease April 2023\nPerkiraan Barang Sampai: Mei - Juni 2023\n*Kalau kamu DP, sisa pelunasan kyou tagih ketika item sampai.\n*Apabila deadline sudah lewat, ngobrol yuk, kyou usahain supaya kamu masih bisa PO!\n\nPENTING\n=================================\n*Harga belum termasuk ongkir dari Bekasi ke alamatmu ketika item tiba.\nOngkos kirim akan ditagihkan ketika item tiba."
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "discounted_price": 350000,
         "sold": 19,
         "discount": true,
-        "image": "miku-2"
+        "image": "miku-2",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: NEW Items NEW Happiness\nMaterials\nABS, PVC\nScale & Dimensions\nH=150mm (5.85in)"
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "discounted_price": null,
         "sold": null,
         "discount": false,
-        "image": "miku-3"
+        "image": "miku-3",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: NEW Items NEW Happiness\nSpecifications Pre-painted Complete Figure\nSize: Approx. H17cm\nMaterial: ATBC-PVC/ABS\n\n[Set Contents]\nMain figure\nBase\nDetails Sculptor: chiaki (knead)\nPAINT: Shoushin Murakawa (knead)"
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "discounted_price": null,
         "sold": 6,
         "discount": false,
-        "image": "miku-4"
+        "image": "miku-4",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: NEW Items NEW Happiness\nDESKRIPSI KOSONG, SEGERA KYOU PERBAIKI"
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "discounted_price": 350000,
         "sold": 1,
         "discount": true,
-        "image": "miku-5"
+        "image": "miku-5",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: Anime PVC Figure\nReady Stock: 03-02-2025\n\nProduct Size: Approx. 18cm"
     },
     {
         "id": 6,
@@ -51,7 +56,8 @@
         "discounted_price": null,
         "sold": 1,
         "discount": false,
-        "image": "miku-6"
+        "image": "miku-6",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: NEW Items NEW Happiness\nClap Your Hands Up!\nFrom the music video for LuckyOrb feat. Hatsune Miku by emon(Tes.), the 5th Anniversary Theme Song for the world concert tour series \"HATSUNE MIKU EXPO\", comes a 1/8th scale figure of Hatsune Miku!"
     },
     {
         "id": 7,
@@ -60,7 +66,8 @@
         "discounted_price": null,
         "sold": null,
         "discount": false,
-        "image": "miku-7"
+        "image": "miku-7",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: Pop Up Parade by Good Smile Company\nReady Stock: 24-02-2025\n\n\"A New Addition to the POP UP PARADE!\""
     },
     {
         "id": 8,
@@ -69,7 +76,8 @@
         "discounted_price": 350000,
         "sold": 3,
         "discount": true,
-        "image": "miku-8"
+        "image": "miku-8",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: Anime PVC Figure\nMaterials\nABS, PVC\nScale & Dimensions H=180mm (8.19in)"
     },
     {
         "id": 9,
@@ -78,7 +86,8 @@
         "discounted_price": 380000,
         "sold": 1,
         "discount": true,
-        "image": "miku-9"
+        "image": "miku-9",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: Anime PVC Figure\nReady Stock: 09-01-2025\n\nPainted with ATBC-PVC. Approximately 160mm in height."
     },
     {
         "id": 10,
@@ -87,25 +96,28 @@
         "discounted_price": 580000,
         "sold": 17,
         "discount": true,
-        "image": "miku-10"
+        "image": "miku-10",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: Anime PVC Figure\nMaterials ABS, PVC"
     },
     {
         "id": 11,
-        "title": "Noodle Stopper Figure Hatsune Miku - Kolsuru",
-        "price": 309900,
-        "discounted_price": 340000,
-        "sold": null,
+        "title": "Noodle Stopper Figure Hatsune Miku - Panda",
+        "price": 369900,
+        "discounted_price": 400000,
+        "sold": 2,
         "discount": true,
-        "image": "miku-11"
+        "image": "miku-11",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: Anime PVC Figure\nReady Stock: 15-03-2025\n\nPainted with ATBC-PVC. Approximately 165mm in height."
     },
     {
         "id": 12,
-        "title": "PVC Figure 1/7 CAworks Hatsune Miku - Maneki",
-        "price": 3759900,
-        "discounted_price": 3850000,
-        "sold": null,
+        "title": "Figma Action Figure Hatsune Miku V4X",
+        "price": 1299900,
+        "discounted_price": 1350000,
+        "sold": 5,
         "discount": true,
-        "image": "miku-12"
+        "image": "miku-12",
+        "description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: Action Figures\nMaterials ABS, PVC\nHeight: Approx. 140mm\nIncludes optional face plates and accessories."
     },
     {
         "id": 13,
@@ -114,7 +126,8 @@
         "discounted_price": 400000,
         "sold": 17,
         "discount": true,
-        "image": "miku-13"
+        "image": "miku-13",
+		"description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: Anime PVC Figure\nMaterials ABS, PVC"
     },
     {
         "id": 14,
@@ -123,7 +136,8 @@
         "discounted_price": 3550000,
         "sold": 9,
         "discount": true,
-        "image": "miku-14"
+        "image": "miku-14",
+		"description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: Anime PVC Figure\nReady Stock: 03-02-2025\n\nProduct Size: Approx. 18cm"
     },
     {
         "id": 15,
@@ -132,6 +146,7 @@
         "discounted_price": 320000,
         "sold": 3,
         "discount": true,
-        "image": "miku-15"
+        "image": "miku-15",
+		"description": "Kondisi: Baru\nMin. Pemesanan: 1 Buah\nEtalase: Anime PVC Figure\nMaterials ABS, PVC"
     }
 ]

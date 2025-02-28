@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": "PVC Figure 1/7 Hatsune Miku with SOLWA",
         "price": 3089900,
         "discounted_price": 3250000,
@@ -8,6 +9,7 @@
         "image": "miku-1"
     },
     {
+        "id": 2,
         "title": "Noodle Stopper Figure Hatsune Miku - Flower",
         "price": 279900,
         "discounted_price": 350000,
@@ -16,6 +18,7 @@
         "image": "miku-2"
     },
     {
+        "id": 3,
         "title": "PVC Figure Hatsune Miku - Trick or Miku Ver",
         "price": 2350000,
         "discounted_price": null,
@@ -24,6 +27,7 @@
         "image": "miku-3"
     },
     {
+        "id": 4,
         "title": "PVC Figure 1/1 Hatsune Miku Symphony - 5th",
         "price": 5250000,
         "discounted_price": null,
@@ -32,6 +36,7 @@
         "image": "miku-4"
     },
     {
+        "id": 5,
         "title": "Fashion Figure Hatsune Miku - Punk Ver. Vocaloid",
         "price": 309900,
         "discounted_price": 350000,
@@ -40,6 +45,7 @@
         "image": "miku-5"
     },
     {
+        "id": 6,
         "title": "PVC Figure 1/8 Hatsune Miku - LuckyOrb: UTA X",
         "price": 2650000,
         "discounted_price": null,
@@ -48,6 +54,7 @@
         "image": "miku-6"
     },
     {
+        "id": 7,
         "title": "Pop Up Parade Figure Hatsune Miku - Little",
         "price": 680000,
         "discounted_price": null,
@@ -56,6 +63,7 @@
         "image": "miku-7"
     },
     {
+        "id": 8,
         "title": "FIGURIZM Figure Hatsune Miku - Catch The Wave",
         "price": 339900,
         "discounted_price": 350000,
@@ -64,6 +72,7 @@
         "image": "miku-8"
     },
     {
+        "id": 9,
         "title": "Noodle Stopper Figure Hatsune Miku - Neon",
         "price": 349900,
         "discounted_price": 380000,
@@ -72,6 +81,7 @@
         "image": "miku-9"
     },
     {
+        "id": 10,
         "title": "Super Premium Figure Hatsune Miku - Unmanned",
         "price": 569900,
         "discounted_price": 580000,
@@ -80,6 +90,7 @@
         "image": "miku-10"
     },
     {
+        "id": 11,
         "title": "Noodle Stopper Figure Hatsune Miku - Kolsuru",
         "price": 309900,
         "discounted_price": 340000,
@@ -88,6 +99,7 @@
         "image": "miku-11"
     },
     {
+        "id": 12,
         "title": "PVC Figure 1/7 CAworks Hatsune Miku - Maneki",
         "price": 3759900,
         "discounted_price": 3850000,
@@ -96,6 +108,7 @@
         "image": "miku-12"
     },
     {
+        "id": 13,
         "title": "[Crane Limited] Master Piece Figure Hatsune",
         "price": 404900,
         "discounted_price": 400000,
@@ -104,6 +117,7 @@
         "image": "miku-13"
     },
     {
+        "id": 14,
         "title": "PVC Figure 1/7 Hatsune Miku - Chronicle",
         "price": 3244900,
         "discounted_price": 3550000,
@@ -112,6 +126,7 @@
         "image": "miku-14"
     },
     {
+        "id": 15,
         "title": "FIGURIZM Figure Hatsune Miku - Shiny T.R. Ver",
         "price": 309900,
         "discounted_price": 320000,
